@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Learning Python is funny....
+=======
+Learning Python is funny....
+RRR
+>>>>>>> 447a91c23d0dce5e6e8c3ebbbcc5b6731925fe6d
